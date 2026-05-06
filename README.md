@@ -8,7 +8,7 @@ A simple calculator application built using C++ performing basic arithmetic oper
 - Division
 - Menu-driven interface
 ## Technologies used
--c++
+- c++
 ## How to run
 1. Clone the repOsitory
 2. Open to project in any C++
