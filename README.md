@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 ## Description
 A simple calculator application built using C++ performing basic arithmetic operations like addition,subtraction,and division.
 ## features
